@@ -9,3 +9,6 @@ Needs nerd-fonts and material-wifi fonts.
 - WiFi quality
 - CPU temperature
 - CPU usage
+
+# TODO
+Temp module is not stable (breaks after 508 seconds)
